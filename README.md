@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 I'm Inanç. There is not much to write for now,<br>I will be sharing the projects I have developed over time.
+💬 I'm Inanç. There is not much to write for now,<br>I will be sharing the projects I have developed over time.<br>
 🌱 I’m currently learning;<br>HTML    <br>CSS    <br>JAVASCRIPT   <br>BOOTSTRAP   <br>REACT <br>
 🔭 I’m currently working on "buildash"<br>
 
